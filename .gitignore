@@ -1,0 +1,11 @@
+# Документы Erickson приходят отдельным архивом
+.claude/skills/onai-contract/assets/*.docx
+Каталог программ и цен.md
+Учебные данные/Договор *.docx
+# Рабочие файлы
+Готово/
+Схемы/
+data.json
+Платежи*.xlsx
+__pycache__/
+.DS_Store
