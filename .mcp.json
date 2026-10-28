@@ -3,6 +3,10 @@
     "meta-ads": {
       "type": "http",
       "url": "https://meta-ads.mcp.pipeboard.co/"
+    },
+    "bitrix24": {
+      "type": "http",
+      "url": "https://mcp.bitrix24.tech/mcp/"
     }
   }
 }
